@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Attister</string>
+    <string name="dept_prompt">Choose a department</string>
+    <string-array name="departments">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>EC</item>
+        <item>CE</item>
+        <item>ME</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
